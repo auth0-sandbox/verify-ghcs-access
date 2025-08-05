@@ -1,5 +1,5 @@
 {
-    "name": "Auth0 Application Development",
+    "name": "Verify GitHub Codespace Access",
     "build": {
         "dockerfile": "Dockerfile",
     },
