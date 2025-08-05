@@ -1,0 +1,8 @@
+{
+    "name": "verify-ghcs-access",
+    "version": "1.0.0",
+    "description": "A simple repository to verify access to GitHub Codespaces",
+    "scripts": {
+        "start": "code -r ./Codespace.md"
+    }
+}

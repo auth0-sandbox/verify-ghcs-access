@@ -1,0 +1,7 @@
+{
+    "name": "Auth0 Application Development",
+    "build": {
+        "dockerfile": "Dockerfile",
+    },
+    "postAttachCommand": "rm -f README.md; cp -f Codespace.md README.md"
+}
