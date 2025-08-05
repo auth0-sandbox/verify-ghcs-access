@@ -48,4 +48,4 @@ the *GitHub Cat* icon reveals a menu with an option to manage all the codespaces
 When a lab is finished the codespace should be deleted.
 GitHub has limits on the number of free codespaces that may be simultaneously created in an account, the amount of
 storage used by these codespaces, how many may be active at the same time, and the total number of "core hours"
-codespaces may use.
+codespaces may use monthly in an account.
