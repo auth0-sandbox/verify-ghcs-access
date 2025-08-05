@@ -25,3 +25,6 @@ vite
 ManagementClient
 getTokenManager
 init
+Codespaces
+codespace
+codespaces
