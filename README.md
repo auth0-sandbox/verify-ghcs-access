@@ -1,6 +1,8 @@
 ![Lab Banner](./.assets/images/application-development-banner.png)
 
-# Synopsis
+# Verify GitHub Codespace Access
+
+## Synopsis
 
 This repository only exists to verify access to GitHub Codespaces: that they may be created and connected to.
 Accessing a codespace from an enterprise computer or network may be blocked in order to prevent leakage.
