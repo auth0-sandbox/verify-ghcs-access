@@ -14,7 +14,7 @@ Start on the **\<> Code** tab of this repository (or any that offers a codespace
 look for the green **\<> Code** button and click it.
 Make sure the **Codespaces** tab is selected, and click the green button **Create codespace on main**.
 This will launch Visual Studio Code in a new tab in your browser, and connect it to a Docker container (a virtual computer)
-running Linux in the cloud.
+running Linux in the cloud:
 
 <div style="text-align: center;" /><img src="./.assets/images/github-codespace-launch.png" /></div>
 
@@ -25,8 +25,8 @@ application is actually running in the local browser.
 All file changes are persisted until the Codespace is deleted.
 
 Codespaces will time out and shut down if you are not using them.
-If you are still on the page that was connected to the codespace in the browser there is a button to restart it.
-The codespace may also be restarted or deleted from the *\<> Code* button at the repository,
-or from the *Codespaces* menu item from the *GitHub Cat* icon in the GitHub account.
+If you are still on the page that was connected to the codespace in the browser use the button to restart it.
+The codespace may also be restarted or deleted from the ellipsis button off of the *\<> Code* button at the repository,
+or from the *Codespaces* menu item off of the *hamburger* menu button next to the *GitHub Cat* icon in the GitHub account:
 
 <div style="text-align: center;" /><img src="./.assets/images/github-codespace-manage.png" /></div>
